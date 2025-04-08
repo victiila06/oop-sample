@@ -13,4 +13,10 @@ public record Money
         Amount = amount;
         Currency = currency;
     }
+    
+    public string AsString()
+    {
+        return $"{Amount} {Currency}";
+    }
 }
+
