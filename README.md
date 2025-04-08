@@ -22,6 +22,9 @@ The following class diagram illustrates the structure of the application:
 
 See [docs/class_diagram.puml](docs/class_diagram.puml) for the source code of the diagram.
 
+## User Stories
+In [docs/user-stories.md](docs/user-stories.md) the documentation folder, you can find user stories that describe the main features of the application. These user stories are written in Gherkin format and include acceptance criteria for each feature.
+
 # Usage
 Run the application using the following command:
 
